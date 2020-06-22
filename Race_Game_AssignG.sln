@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race_Game_AssignG", "Race_Game_AssignG\Race_Game_AssignG.csproj", "{8D3AA765-52DC-4DA9-99AD-4AA9C7DF12C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race_Game_AssignGTests", "Race_Game_AssignGTests\Race_Game_AssignGTests.csproj", "{5DADC683-9D49-42D7-97A2-7BF7A161F15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D3AA765-52DC-4DA9-99AD-4AA9C7DF12C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3AA765-52DC-4DA9-99AD-4AA9C7DF12C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3AA765-52DC-4DA9-99AD-4AA9C7DF12C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3AA765-52DC-4DA9-99AD-4AA9C7DF12C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DADC683-9D49-42D7-97A2-7BF7A161F15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DADC683-9D49-42D7-97A2-7BF7A161F15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DADC683-9D49-42D7-97A2-7BF7A161F15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DADC683-9D49-42D7-97A2-7BF7A161F15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFE4DA48-E27C-4BAB-8A88-F7FADBCAF517}
+	EndGlobalSection
+EndGlobal
